@@ -1,2 +1,2 @@
-# Data_Analyst_SQL_Study_Case
-Instacart, an online grocery store that operates through an app. Performed an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation.Big data project it was decided to conduct an analysis and visualization using python and Jupyter notebook.
+# Portofolio
+Rockbuster Stealth LLC, is a former global chain of movie rental stores, the Rockbuster Stealth management team is planning to launch an online video rental service due to intense competition from streaming services such as Netflix and Amazon Prime, the management is planning to use existing movie licenses to stay competitive in the market. Analyze Rockbuster’s data and answer important business inquiries regarding revenue, customer profile, and geographical sales to provide insights for their strategy plan. Project conducted an analysis and visualization using SQL and Tableau.
