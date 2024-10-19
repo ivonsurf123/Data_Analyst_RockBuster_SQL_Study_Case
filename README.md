@@ -47,4 +47,4 @@
 #### 15. Domain Knowledge: Developing a deep understanding of the grocery retail domain, including knowledge of product categories, consumer preferences, and industry trends.
 
 # Tableau StoryTeller Visualization 
-#### https://public.tableau.com/app/profile/ivonne.aspilcueta/viz/RockBuster_FinalPresentation/Rockbuster?publish=yes
+#### [Tableau Presentation](https://public.tableau.com/app/profile/ivonne.aspilcueta/viz/RockBuster_FinalPresentation/Rockbuster?publish=yes/)
